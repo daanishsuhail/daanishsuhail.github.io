@@ -7,5 +7,11 @@ body {
 .mainTitle {
 	text-decoration: underLine;
 	font-size: 1.875em;
+	display: inline-block;
+	padding-top: 15px;
+	padding-bottom: 40px;
 }
 
+iframe {
+	height: 100vh;
+}	
