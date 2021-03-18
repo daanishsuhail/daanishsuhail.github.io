@@ -1,4 +1,11 @@
 body {
-	background-color: beige;
 	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
+
 }
+
+.mainTitle {
+	text-decoration: underLine;
+	font-size: 1.875em;
+}
+
